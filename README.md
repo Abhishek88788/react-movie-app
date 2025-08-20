@@ -54,8 +54,10 @@ npm run build
 ```
 ---
 
-## 🎥 Demo
-👉 Coming soon…  
+## 🎥 Live Demo
+
+Check out the app live here: [https://react-movie-app-six-xi.vercel.app/](https://react-movie-app-six-xi.vercel.app/) 🚀
+
 
 ---
 
