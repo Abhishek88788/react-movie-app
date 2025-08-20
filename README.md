@@ -36,7 +36,7 @@ npm install
 - Go to your API settings and generate an API key  
 
 ### 4️⃣ Add your API key
-In the project, locate the file where the API key is required ([services/api.js](https://github.com/USERNAME/REPO_NAME/blob/main/services/api.js#L10)).  
+In the project, locate the file where the API key is required ([services/api.js](https://github.com/Abhishek88788/react-movie-app/blob/779aa11d127295b00ea618598d0f82225c1a79ca/src/services/api.js#L1C18-L1C35)).  
 Replace the placeholder with your key:
 
 ```sh
