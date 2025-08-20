@@ -14,7 +14,7 @@ Users can **search for the latest movies**, explore movie details, and **add fav
 ## 🚀 Features
 
 - 🔍 **Search Movies** – Find the latest and trending movies using the TMDB API.
-- ❤️ **Favorites Section** – Save movies you like by clicking the ⭐ button on the poster.
+- ❤️ **Favorites Section** – Save movies you like by clicking the ❤️ button on the poster.
 - 🎬 **Movie Posters** – Browse through high-quality posters fetched directly from TMDB.
 - ⚡ **Fast & Modern UI** – Built with React + Vite for speed and smooth experience.
 
