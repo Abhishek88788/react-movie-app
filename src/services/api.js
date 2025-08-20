@@ -1,4 +1,4 @@
-const API_KEY = "";
+const API_KEY = "YOUR_API_KEY_HERE"; // 🔴 IMPORTANT: Replace with your TMDB API key
 const BASE_URL = "https://api.themoviedb.org/3";
 
 export const getPopularMovies = async () => {
